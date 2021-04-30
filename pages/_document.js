@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     const meta = {
-      title: 'Next.js Blog Starter Kit',
+      title: 'Enterprise Application Developer',
       description: 'Clone and deploy your own Next.js portfolio in minutes.',
       image:
         'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
@@ -24,7 +24,7 @@ class MyDocument extends Document {
           <meta property="og:title" content={meta.title} />
           <meta property="og:image" content={meta.image} />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:site" content="@yourname" />
+          <meta name="twitter:site" content="@alina9675" />
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
           <meta name="twitter:image" content={meta.image} />
