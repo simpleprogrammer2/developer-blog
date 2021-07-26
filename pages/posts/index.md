@@ -1,5 +1,5 @@
 ---
-type: posts
+type: page
 title: Posts
 date: 2021-03-18
 ---
