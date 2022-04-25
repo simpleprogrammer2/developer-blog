@@ -28,6 +28,7 @@ class MyDocument extends Document {
           <meta name="twitter:title" content={meta.title} />
           <meta name="twitter:description" content={meta.description} />
           <meta name="twitter:image" content={meta.image} />
+          <meta name="google-signin-client_id" content="627433171674-ipfft1f0lom7miko0o8gu2uha6cov9ks.apps.googleusercontent.com" />
         </Head>
         <body>
           <Main />
