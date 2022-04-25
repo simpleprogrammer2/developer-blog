@@ -6,7 +6,7 @@ import TagManager from 'react-gtm-module'
 
 export default function Nextra({ Component, pageProps }) {
   const tagManagerArgs = {
-    gtmId: 'GTM-5T3MTFP'
+    gtmId: 'GTM-TVBFM3J'
   };
   if (process.browser) {
     TagManager.initialize(tagManagerArgs);
