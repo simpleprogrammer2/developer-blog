@@ -18,7 +18,7 @@
     "date-fns": "2.30.0",
     "flowbite": "^1.8.1",
     "gray-matter": "4.0.3",
-    "next": "latest",
+    "next": "^13.4.19",
     "nextra": "^2.12.3",
     "nextra-theme-blog": "^2.12.3",
     "nextra-theme-docs": "2.12.3",
